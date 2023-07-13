@@ -1,5 +1,7 @@
 # COTTRI team
 
+## Member list
+
 Yuki Fujii, MyeongJae Lee, Masaki Miyataki, Yu Nakazawa, Kazuki Ueno, Chihiro Yamada, Hisataka Yoshida
 
 
