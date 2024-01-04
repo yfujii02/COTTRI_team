@@ -2,11 +2,11 @@
 
 ## Repositories on GitLab, ccin2p3 (member-only)
 
-[COTTRI CDC MB and FE](https://gitlab.in2p3.fr/yfujii/cottri_system)
+[COTTRI CDC MB and FE](https://gitlab.in2p3.fr/yfujii/cottri_system) / currently using Vivado 2020.1
 
-[COTTRI CTH MB](https://gitlab.in2p3.fr/yfujii/cottri_cth_mb)
+[COTTRI CTH MB](https://gitlab.in2p3.fr/yfujii/cottri_cth_mb) / currently using Vivado 202X
 
-[COTTRI CTH FE](https://gitlab.in2p3.fr/yfujii/COTTRI_PROJECT)
+[COTTRI CTH FE](https://gitlab.in2p3.fr/yfujii/COTTRI_PROJECT) / currently using Vivado 202X
 
 ## Member list
 
