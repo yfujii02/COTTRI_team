@@ -1,5 +1,13 @@
 # COTTRI team
 
+## Repositories on GitLab, ccin2p3 (member-only)
+
+[COTTRI CDC MB and FE](https://gitlab.in2p3.fr/yfujii/cottri_system)
+
+[COTTRI CTH MB](https://gitlab.in2p3.fr/yfujii/cottri_cth_mb)
+
+[COTTRI CTH FE](https://gitlab.in2p3.fr/yfujii/COTTRI_PROJECT)
+
 ## Member list
 
 Yuki Fujii, MyeongJae Lee, Masaki Miyataki, Yu Nakazawa, Kazuki Ueno, Chihiro Yamada, Hisataka Yoshida
