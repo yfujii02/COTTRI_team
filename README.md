@@ -1,12 +1,15 @@
 # COTTRI team
 
-## Repositories on GitLab, ccin2p3 (member-only)
+## Projects and Git Repositories on ccin2p3 (member-only)
 
-[COTTRI CDC MB and FE](https://gitlab.in2p3.fr/yfujii/cottri_system) / currently using Vivado 2020.1
++ [COTTRI CDC MB](CDC-MB-Descriptions.md) and [FE](CDC-FE-Descriptions.md) / Currently under devevlopment using Vivado 2020.1
+  - Git repository is [here](https://gitlab.in2p3.fr/yfujii/cottri_system)
 
-[COTTRI CTH MB](https://gitlab.in2p3.fr/yfujii/cottri_cth_mb) / currently using Vivado 202X
++ [COTTRI CTH MB](CTH-MB-Descriptions.md) / Currently under development using Vivado 202X
+  - Git repository is [here](https://gitlab.in2p3.fr/yfujii/cottri_cth_mb)
 
-[COTTRI CTH FE](https://gitlab.in2p3.fr/yfujii/COTTRI_PROJECT) / currently using Vivado 202X
++ [COTTRI CTH FE](CTH-FE-Descriptions.md) / Currently under development using Vivado 202X
+  - Git repository is [here](https://gitlab.in2p3.fr/yfujii/COTTRI_PROJECT)
 
 ## Member list
 
